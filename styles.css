@@ -1,0 +1,11 @@
+p{
+    color: green;
+}
+
+p#p1{
+    color: blue;
+}
+
+.navegador{
+    color: red;
+}
